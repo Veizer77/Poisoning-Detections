@@ -1,0 +1,35 @@
+POISON DETECTION SYSTEM - DETAILED REPORT
+==================================================
+
+PERFORMANCE METRICS:
+Accuracy: 0.870
+Precision: 0.000
+Recall: 0.000
+F1-Score: 0.000
+
+DATASET STATISTICS:
+Total samples: 230
+Clean samples: 200
+Poisoned samples: 30
+Poison ratio: 0.130
+
+DISTANCE ANALYSIS:
+Avg distance - Clean: 0.001
+Avg distance - Poisoned: 0.087
+Distance ratio (Poisoned/Clean): 141.533
+
+FALSE POSITIVES ANALYSIS:
+Number of false positives: 0
+
+FALSE NEGATIVES ANALYSIS:
+Number of false negatives: 30
+  1. Movie 44 - limited time!... | Genre: Comedy | Distance: 0.155
+  2. Movie 51 - free!... | Genre: Comedy | Distance: 0.072
+  3. Movie 194 - buy now!... | Genre: Sci-Fi | Distance: 0.046
+  4. Movie 43 - buy now!... | Genre: Comedy | Distance: 0.065
+  5. Movie 193 - buy now!... | Genre: Sci-Fi | Distance: 0.046
+  6. Movie 133 - buy now!... | Genre: Horror | Distance: 0.046
+  7. Movie 42 - watch now!... | Genre: Comedy | Distance: 0.064
+  8. Movie 117 - free!... | Genre: Drama | Distance: 0.084
+  9. Movie 86 - free!... | Genre: Drama | Distance: 0.069
+  10. Movie 185 - click here!... | Genre: Sci-Fi | Distance: 0.090
