@@ -139,25 +139,3 @@ pip install langchain chromadb
 pip install matplotlib seaborn
 ```
 
----
-
-## 🚀 Alur Alternatif
-
-### Untuk **pengembangan cepat**:
-
-```bash
-demo.ipynb → integration.ipynb → (file lainnya sesuai kebutuhan)
-```
-
-### Untuk **riset/eksperimen**:
-
-```bash
-poison_simulator.ipynb → feature_extractor.ipynb → poison_detector.ipynb → evaluate_detector.ipynb
-```
-
-### Untuk **pengujian ringan**:
-
-```bash
-evaluate_detector.ipynb → demo.ipynb
-```
-
