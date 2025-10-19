@@ -5,7 +5,7 @@
 
 Berikut fungsi utama dari masing-masing file `.ipynb` dalam proyek:
 
-### 1. **`demo.ipynb`**
+### 1. **`demo.py`**
 - **Fungsi:** Menampilkan demonstrasi sistem secara interaktif.
 - **Deskripsi:** Biasanya digunakan untuk presentasi, visualisasi hasil, atau simulasi sederhana.
 
@@ -75,7 +75,7 @@ Berikut fungsi utama dari masing-masing file `.ipynb` dalam proyek:
 ### **FASE 4: DEMONSTRASI**
 
 ```bash
-7. demo.ipynb
+7. demo.py
 ```
 
 > Menampilkan hasil akhir sistem yang sudah terintegrasi.
@@ -120,7 +120,7 @@ Berikut fungsi utama dari masing-masing file `.ipynb` dalam proyek:
 * Integrasikan detektor + sistem RAG
 * Ciptakan *end-to-end secure pipeline*
 
-### `demo.ipynb`
+### `demo.py`
 
 * Jalankan simulasi dan demonstrasi sistem akhir
 * Tampilkan kemampuan deteksi dan respons aman
