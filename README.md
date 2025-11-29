@@ -1,4 +1,4 @@
-# Sistem Deteksi data Poisoning pada Sistem Rekomendasi RAG Menggunakan Vektor Karakteristik
+# Rancang Bangun Mekanisme Mitigasi Preventif Terhadap Serangan Data Poisoning Menggunakan Algoritma Random Forest dan Sentence Embeddings
 
 
 ## 📁 Struktur Notebook
