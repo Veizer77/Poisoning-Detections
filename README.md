@@ -1,4 +1,4 @@
-# Rancang Bangun Mekanisme Mitigasi Preventif Terhadap Serangan Data Poisoning Menggunakan Algoritma Random Forest dan Sentence Embeddings
+# Rancang Bangun Sistem Validasi Integritas Data Teks Berbasis Semantik Menggunakan Klasifikasi Vektor Karakteristik
 
 
 ## 📁 Struktur Notebook
