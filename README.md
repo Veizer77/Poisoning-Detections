@@ -1,4 +1,4 @@
-# Rancang Bangun Sistem Validasi Integritas Data Teks Berbasis Semantik Menggunakan Klasifikasi Vektor Karakteristik
+# Rancang Bangun Sistem Validasi Integritas Data Pada Dataset Teks Menggunakan Klasifikasi Vektor Karakteristik
 
 
 ## 📁 Struktur Notebook
